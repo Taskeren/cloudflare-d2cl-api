@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "d2cl-cloudflare-worker",
+  "version": "1.0.0",
+  "description": "A CloudFlare worker for querying the cheating data of the specific in Destiny2CheaterList repository.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Taskeren",
+  "license": "MIT",
+  "devDependencies": {}
+}
